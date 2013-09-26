@@ -1,0 +1,11 @@
+{
+  "name": "mung",
+  "version": "0.0.0",
+  "description": "mess with data in files",
+  "main": "mung.js",
+  "author": "lkptrzk",
+  "license": "MIT",
+  "dependencies": {
+    "optimist": "~0.6.0"
+  }
+}
